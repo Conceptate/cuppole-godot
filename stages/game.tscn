@@ -7,7 +7,7 @@
 
 [node name="pole" parent="." instance=ExtResource( 1 )]
 
-transform/pos = Vector2( 536.234, 765.33 )
+transform/pos = Vector2( 533.962, 554.027 )
 
 [node name="cup" parent="." instance=ExtResource( 2 )]
 
